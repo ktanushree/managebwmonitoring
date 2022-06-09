@@ -9,7 +9,7 @@ Script to manage BW Monitoring setting on Prisma SDWAN Sites. Enable or Disable 
 * Active Prisma SDWAN Account
 * Python >=3.6
 * Python modules:
-    * CloudGenix Python SDK >= 5.2.1b1 - <https://github.com/CloudGenix/sdk-python>
+    * CloudGenix Python SDK >= 6.0.1b1 - <https://github.com/CloudGenix/sdk-python>
 * ProgressBar2
 
 #### License
